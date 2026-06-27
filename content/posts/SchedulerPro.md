@@ -6,7 +6,7 @@ canonical_url: https://lab.embedinker.com/posts/priority-scheduler
 distribution:
   linkedin:
     status: pending
-    payload_snippet: Just benchmarked my custom C++ scheduler loop. Replaced standard maps with 2-bit state tracking to stay completely within L1/L2 cache blocks...
+    payload_snippet: This app finds a way to blend your list of projects among existing calendar commitments.
     link_posted: ""
   reddit:
     status: pending
@@ -20,4 +20,4 @@ distribution:
 ---
 
 
-A slightly older product we've built - is a  Round-Robin priority scheduler, published  in internal Embedinker marketplace: access is by invite only
+A slightly older product we've built - is a  Round-Robin priority scheduler, published  in internal Embedinker marketplace: access is by invite only for now.
