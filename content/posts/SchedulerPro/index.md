@@ -43,7 +43,8 @@ Then, suppose something is not quite right - or a date is off: you can delete th
 ## Spoiler
 This story describes a slightly older product we've built - is a  Round-Robin priority scheduler, published  in our internal Embedinker marketplace: access is by invite only for now. It currently uses Google Sheets™ and Google Calendar™ for it's operations (which are great products in themselves) - but we also intend to also have a weaker coupled version too.
 ### See it in action
-![Demo of SchedulerPro run and operations - 12minutes or so](https://youtu.be/T64vq_bgQJA?si=DeQHjI6gbFpaRK78)
+{{< youtube id="T64vq_bgQJA" autoplay="false" >}}
+![Demo of SchedulerPro run and operations - 12minutes or so](https://youtu.be/T64vq_bgQJA)
 ### Get an invite
 
 If you are a builder, engineer, or busy creator looking to protect your growth time and want to request an invite code, let's connect! 
