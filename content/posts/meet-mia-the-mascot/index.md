@@ -1,18 +1,19 @@
 ---
 title: "Meet Mia: The Shaded Mascot on the Banner"
-date: 2026-06-27T12:00:00+02:00
+date: 2026-06-27T10:00:00+02:00
 draft: false
-summary: "She’s a street cat who understands human speech, negotiates company perks, and has a very specific corporate contingency plan if we ever run out of food."
-tags: ["mascot", "life", "meta"]
+summary: She’s a street cat who understands human speech, negotiates company perks, and has a very specific corporate contingency plan if we ever run out of food.
+tags:
+  - mascot
+  - life
+  - meta
 showToc: false
 cover:
-    image: "mia-beach.jpeg"
-    alt: "Mia the company mascot chilling in a backpack on the beach"
-    caption: "Chief Negotiations Officer Mia, scouting out the next adventure."
-    relative: true
+  image: mia-beach.jpeg
+  alt: Mia the company mascot chilling in a backpack on the beach
+  caption: Chief Negotiations Officer Mia, scouting out the next adventure.
+  relative: true
 ---
-
-![[mia-beach.jpeg|519]]
 
 If you look closely at our company banner, you'll spot her shaded in the background. That’s **Mia**. She’s the company mascot—just a street cat who happens to understand human speech, negotiate perks, and manage our office plans.
 
