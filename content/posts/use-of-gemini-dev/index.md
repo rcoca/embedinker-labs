@@ -84,7 +84,9 @@ Even further down the road, you hit the **Big Frustration Epoch**. For a project
 In this stage, the best approach is to describe the exact problem you are facing, ask for high-level proposed solutions, and have it code a very limited, scoped part of the fix that you then integrate manually, reading every line. Or else, prepare to debug for days.
 
 The stage after that is often another refactoring phase. The code progresses simply too fast for it to maintain a clean structure, requiring an "equivalence rewrite." At this point, it is incredibly useful to step away from the keyboard, grab a pencil and paper, and summarize what is actually happening inside the software. That mental clarity will guide your refactoring process and yield a resilient product in the end.
-
+### Compile errors and debugging
+Template compile error messages tend to be parsed flawlessly and LLM will come back with a fix - usually the right one.
+Some LLM-guided debugging can turn into a pleasant experience - at least at a suggestions/hints level. We could not explore any further - since most of debugging techniques used before LLM use already revealed the needed info - and also we tend to produce code that does not need debugging.
 ### Code Review
 
 AI will happily point to broken patterns, unexpected resource leaks, design flaws, and naming conventions. That part is entirely saved labor.
