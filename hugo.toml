@@ -21,6 +21,11 @@ theme = 'PaperMod'
     weight = 10
 
 [[menu.main]]
+    name = "Books & CppCon"
+    url = "/reviews/"
+    weight = 15
+
+[[menu.main]]
     name = "Mia's Corner"
     url = "/cat/"
     weight = 20
@@ -29,4 +34,3 @@ theme = 'PaperMod'
     name = "Systems & Organizing"
     url = "/organizing/"
     weight = 30
-    
