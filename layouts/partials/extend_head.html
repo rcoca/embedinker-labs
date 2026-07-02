@@ -1,0 +1,46 @@
+<!-- Free, Zero-Dependency Minimal Cookie Banner -->
+<div id="cookie-notice" style="display: none; position: fixed; bottom: 20px; left: 20px; right: 20px; max-width: 450px; background: var(--theme); border: 1px solid var(--border); border-radius: 8px; padding: 1.2rem; box-shadow: 0 4px 12px rgba(0,0,0,0.15); z-index: 9999; font-size: 0.9rem;">
+    <p style="margin: 0 0 1rem 0; color: var(--content); line-height: 1.4;">We use cookies to analyze lab performance and traffic trends across our namespaces.</p>
+    <div style="display: flex; gap: 10px; justify-content: flex-end;">
+        <button id="cookie-deny" style="background: transparent; border: 1px solid var(--border); color: var(--content); padding: 6px 12px; border-radius: 4px; cursor: pointer;">Deny</button>
+        <button id="cookie-accept" style="background: var(--primary); border: 1px solid var(--primary); color: var(--theme); padding: 6px 12px; border-radius: 4px; cursor: pointer; font-weight: 600;">Approve</button>
+    </div>
+</div>
+
+<script>
+    (function() {
+        const gaId = 'G-FYPRXYPDG1'; // <-- Put your Lab G-ID here
+        const consentKey = 'cookie_consent_approved';
+
+        function loadGA() {
+            var s = document.createElement('script');
+            s.async = true;
+            s.src = 'https://www.googletagmanager.com/gtag/js?id=' + gaId;
+            document.head.appendChild(s);
+
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', gaId);
+        }
+
+        const consent = localStorage.getItem(consentKey);
+        if (consent === 'true') {
+            loadGA();
+        } else if (consent === null) {
+            const banner = document.getElementById('cookie-notice');
+            banner.style.display = 'block';
+
+            document.getElementById('cookie-accept').addEventListener('click', function() {
+                localStorage.setItem(consentKey, 'true');
+                banner.style.display = 'none';
+                loadGA();
+            });
+
+            document.getElementById('cookie-deny').addEventListener('click', function() {
+                localStorage.setItem(consentKey, 'false');
+                banner.style.display = 'none';
+            });
+        }
+    })();
+</script>
