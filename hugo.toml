@@ -9,3 +9,18 @@ theme = 'PaperMod'
   [privacy.youtube]
     disabled = false
     privacyEnhanced = true
+
+[[menu.main]]
+    name = "Coding"
+    url = "/coding/"
+    weight = 10
+
+[[menu.main]]
+    name = "Mia's Corner"
+    url = "/cat/"
+    weight = 20
+
+[[menu.main]]
+    name = "Systems & Organizing"
+    url = "/organizing/"
+    weight = 30
