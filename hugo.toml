@@ -11,6 +11,11 @@ theme = 'PaperMod'
     privacyEnhanced = true
 
 [[menu.main]]
+    name = "Labs"
+    url = "/"
+    weight = 5
+
+[[menu.main]]
     name = "Coding"
     url = "/coding/"
     weight = 10
@@ -24,3 +29,4 @@ theme = 'PaperMod'
     name = "Systems & Organizing"
     url = "/organizing/"
     weight = 30
+    
