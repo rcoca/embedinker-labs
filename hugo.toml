@@ -28,9 +28,9 @@ theme = 'PaperMod'
 [[menu.main]]
     name = "Mia's Corner"
     url = "/cat/"
-    weight = 20
+    weight = 30
 
 [[menu.main]]
     name = "Systems & Organizing"
     url = "/organizing/"
-    weight = 30
+    weight = 20
