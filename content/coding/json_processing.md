@@ -1,6 +1,6 @@
 ---
 title: "Processing Gigabytes of JSON: Why Streaming is the Only Way to Scale"
-date: 2026-07-14T15:00:00+00:00
+date: 2026-07-12T15:00:00+00:00
 draft: false
 categories:
   - Engineering
