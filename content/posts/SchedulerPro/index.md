@@ -1,7 +1,7 @@
 ---
 title: SchedulerPro - a simple calendar planner - with spreadsheet input
 date: 2026-06-26
-status: draft
+status: published
 canonical_url: https://lab.embedinker.com/posts/priority-scheduler
 distribution:
   linkedin:
@@ -20,14 +20,14 @@ distribution:
 ---
 ## Problem Statement
 
-Suppose we have busy lives - and some parts are bolted with calendar appointments. And that has nothing todo with growth - but mostly with maintenance. Some growth seeps through - barely to make a dent. Not to mention the sustained effort required to make an idea into a product.
-Now, suppose there's 2 hours every day where you could work at the growth part - pushing the project forward, connecting all the disparaged parts.
+Suppose we have busy lives - and some parts are bolted with calendar appointments. And that has nothing to do with growth - but mostly with maintenance. Some growth seeps through - barely to make a dent. Not to mention the sustained effort required to make an idea into a product.
+Now, suppose there's 2 hours every day where you could work at the growth part - pushing the project forward, connecting all the disparate parts.
 
 ## Proposed solution
 
 Take a spreadsheet - and fill in tasks. 
 Then add project titles - grouping the tasks into projects.
-Then set a date range where you'd want the tasks done. Then add estimates - smaller than the timespan where the project could leave.
+Then set a date range where you'd want the tasks done. Then add estimates - smaller than the timespan where the project could live.
 Then add priorities.
 ![Sample Tasks and Projects List as input](screenshot_1.png)
 
@@ -41,16 +41,21 @@ Then examine them at your own pace - annotate and tweak, delete some. And have t
 Then, suppose something is not quite right - or a date is off: you can delete the plan from calendar (hundreds of entries, perhaps), re-run the scheduling with the fixed value - and reapply to the calendar
 
 ## Spoiler
-This story describes a slightly older product we've built - is a  Round-Robin priority scheduler, published  in our internal Embedinker marketplace: access is by invite only for now. It currently uses Google Sheets™ and Google Calendar™ for it's operations (which are great products in themselves) - but we also intend to also have a weaker coupled version too.
+
+This story describes a product we've built - a Round-Robin priority scheduler, now available in the Google Workspace Marketplace. It currently uses Google Sheets™ and Google Calendar™ for its operations (which are great products in themselves) - but we also intend to have a weaker coupled version too.
+
 ### See it in action
+
 {{< youtube id="T64vq_bgQJA" autoplay="false" >}}
 Demo of SchedulerPro run and operations - 12minutes or so
-### Get an invite
 
-If you are a builder, engineer, or busy creator looking to protect your growth time and want to request an invite code, let's connect! 
+### Get started
 
-[Use the support form](https://schedulerpro.embedinker.com/support-report-issue): "I'd like an invite" - and we'll accommodate you.
+You can find the app in the [Google Workspace Marketplace](https://workspace.google.com/marketplace/app/scheduler_pro/974650517233).
 
-----
+If you are a builder, engineer, or busy creator looking to protect your growth time and want to be one of our first users, please [use the support form](https://schedulerpro.embedinker.com/support-report-issue) [that captures all info needed for enrolement] or email me at **razvan@embedinker.com** to request an invite. I'll add you as a user and waive the first month's payment.
+
+---
+
 
 Google Workspace™, Google Calendar™, Google Sheets™, Google Account™, Google API™, and Google Security™ are trademarks of Google LLC. SchedulerPro is not affiliated with, endorsed by, or sponsored by Google LLC.
