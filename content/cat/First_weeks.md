@@ -24,6 +24,8 @@ Most of the time I was hiding under the bed - or in various corners. I still do 
 After a while I discovered some good places: sun shines over the books in the library in the morning - so I nested on top of the books in the lower shelf for a few hours every January morning.
 
 He tricked me into playing with him - and then he couldn't get away. It started with a dust cleaner - that I totally embraced and kicked with my bunny legs - but then it went on toying with his activities: I chewed the tip of his pencil as he was writing - I still do that if I'm around. And when tired - I put my head on the hand he was holding the book with - and took a good, long nap. Didn't dare disturb me too much.
+![Mia with the duster](/images/mia_duster_loot_play.png)
+![Mia, chewing the pencil](/images/mia_chewing_pencil.png)
 
 With sleep patterns I figured out not so easy - he's not sleeping like me. I got into my party disposition just about when he was heading to sleep - but we don't let a nap wreck a good party. So I ran around the house, jumping here and there - and, if he was in the way of my trajectory - well, eh, I used him as a trampoline. I'm still the fastest cat around - and that's what counts, right?
 
