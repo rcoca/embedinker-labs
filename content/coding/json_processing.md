@@ -14,6 +14,20 @@ tags:
 description: Avoid the 'DOM Trap' when parsing massive JSON files. Learn how to use streaming pipelines and on-the-fly decompression to process 10GB+ files with minimal RAM.
 series: High Performance Systems
 slug: processing-massive-json-streaming-vs-dom
+distribution:
+  linkedin:
+    status: posted
+    payload_snippet: parsing massive JSON files. Learn how to use streaming pipelines and on-the-fly decompression to process 10GB+ files with minimal RAM.
+    link_posted: ""
+  reddit:
+    status: pending
+    target_subreddits:
+      - cpp
+      - systems
+    link_posted: ""
+  grimm_network:
+    status: pending
+    thread_id: ""
 ---
 
 

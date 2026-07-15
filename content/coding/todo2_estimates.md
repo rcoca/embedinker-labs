@@ -14,6 +14,20 @@ tags:
 description: Adding hierarchical time estimates and automatic parent summaries to a CLI task manager using Go.
 series: "Developer Tools"
 slug: adding-estimates-to-devtodo2-go-hierarchical-tasks
+distribution:
+  linkedin:
+    status: pending
+    payload_snippet: This app adds estimates to todo2 (todo list in the project folder).
+    link_posted: ""
+  reddit:
+    status: pending
+    target_subreddits:
+      - golang
+      - productivity
+    link_posted: ""
+  grimm_network:
+    status: pending
+    thread_id: ""
 ---
 
 # Adding Estimates to DevTodo2: A Journey in Go and Hierarchical Tasks

@@ -14,6 +14,20 @@ tags:
 description: How to analyze 4GB of raw binary metadata using only 1GB of RAM by leveraging mmap and a 2-bit state machine.
 series: High Performance Systems
 slug: processing-billions-of-integers-memory-efficiency
+distribution:
+  linkedin:
+    status: posted
+    payload_snippet: analyze 4GB of raw binary metadata 
+    link_posted: ""
+  reddit:
+    status: pending
+    target_subreddits:
+      - cpp
+      - systems
+    link_posted: ""
+  grimm_network:
+    status: pending
+    thread_id: ""
 ---
 
 # Processing Billions of Integers: A Lesson in Memory Efficiency and Bit Manipulation

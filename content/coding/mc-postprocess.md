@@ -16,6 +16,20 @@ tags:
 description: A deep dive into reducing simulation latency by aligning data structures with the L3 cache, fusing mathematical ranges, and navigating the parallelism paradox.
 series: High Performance Systems
 slug: optimizing-monte-carlo-simulations-cache-alignment
+distribution:
+  linkedin:
+    status: pending
+    payload_snippet: Optimization of postprocessing of a hedge fund Monte Carlo strategies simulation.
+    link_posted: ""
+  reddit:
+    status: pending
+    target_subreddits:
+      - golang
+      - productivity
+    link_posted: ""
+  grimm_network:
+    status: pending
+    thread_id: ""
 ---
 
 
