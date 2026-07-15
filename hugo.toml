@@ -2,6 +2,7 @@ baseURL = 'https://lab.embedinker.com/'
 locale = 'en-us'
 title = 'Embedinker Labs'
 theme = 'PaperMod'
+mainSections = ["posts"]
 
 [privacy]
   [privacy.vimeo]
