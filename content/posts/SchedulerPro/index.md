@@ -53,7 +53,7 @@ Demo of SchedulerPro run and operations - 12minutes or so
 
 You can find the app in the [Google Workspace Marketplace](https://workspace.google.com/marketplace/app/scheduler_pro/974650517233).
 
-If you are a builder, engineer, or busy creator looking to protect your growth time and want to be one of our first users, please [use the support form](https://schedulerpro.embedinker.com/support-report-issue) [that captures all info needed for enrolment] or email me at **razvan@embedinker.com** to request an invite. I'll add you as a user and waive the first month's payment.
+If you are a builder, engineer, or busy creator looking to protect your growth time and want to be one of our first users, please [use the support form](https://schedulerpro.embedinker.com/support-report-issue) [that captures all info needed for enrollment] or email me at **razvan@embedinker.com** to request an invite. I'll add you as a user and waive the first month's payment.
 
 ---
 
