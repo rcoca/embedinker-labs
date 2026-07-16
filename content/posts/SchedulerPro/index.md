@@ -21,7 +21,7 @@ distribution:
 ## Problem Statement
 
 Suppose we have busy lives - and some parts are bolted with calendar appointments. And that has nothing to do with growth - but mostly with maintenance. Some growth seeps through - barely to make a dent. Not to mention the sustained effort required to make an idea into a product.
-Now, suppose there's 2 hours every day where you could work at the growth part - pushing the project forward, connecting all the disparate parts.
+Now, suppose there's two hours every day where you could work at the growth part - pushing the project forward, connecting all the disparate parts.
 
 ## Proposed solution
 
@@ -31,7 +31,7 @@ Then set a date range where you'd want the tasks done. Then add estimates - smal
 Then add priorities.
 ![Sample Tasks and Projects List as input](screenshot_1.png)
 
-Then - create multiple calendars for tracking multiple projects - that's highly recommended. At least for parts that can move independently. Why not - assign a calendar in column for each task. Or just use a Planning calendar - that is isolated enough.
+Then - create multiple calendars for tracking multiple projects - that's highly recommended. At least for parts that can move independently. Why not - assign a calendar in a column for each task. Or just use a Planning calendar - that is isolated enough.
 
 Then have a piece of software break them down in deep work blocks - and place in the desired calendar - sorted by priority - and start date.
 ![Result of scheduling - in a table](screenshot_2.png)
@@ -53,7 +53,7 @@ Demo of SchedulerPro run and operations - 12minutes or so
 
 You can find the app in the [Google Workspace Marketplace](https://workspace.google.com/marketplace/app/scheduler_pro/974650517233).
 
-If you are a builder, engineer, or busy creator looking to protect your growth time and want to be one of our first users, please [use the support form](https://schedulerpro.embedinker.com/support-report-issue) [that captures all info needed for enrolement] or email me at **razvan@embedinker.com** to request an invite. I'll add you as a user and waive the first month's payment.
+If you are a builder, engineer, or busy creator looking to protect your growth time and want to be one of our first users, please [use the support form](https://schedulerpro.embedinker.com/support-report-issue) [that captures all info needed for enrolment] or email me at **razvan@embedinker.com** to request an invite. I'll add you as a user and waive the first month's payment.
 
 ---
 
