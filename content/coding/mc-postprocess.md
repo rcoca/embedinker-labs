@@ -24,8 +24,9 @@ distribution:
   reddit:
     status: pending
     target_subreddits:
-      - golang
-      - productivity
+      - quantfin
+      - C++
+      - HPC
     link_posted: ""
   grimm_network:
     status: pending
