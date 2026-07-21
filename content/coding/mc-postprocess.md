@@ -1,6 +1,6 @@
 ---
 title: "Mechanical Sympathy in Quant Finance: Optimizing Monte Carlo Post-Processing"
-date: 2026-07-21T10:00:00+00:00
+date: 2026-07-21T05:00:00+00:00
 draft: false
 categories:
   - Engineering
