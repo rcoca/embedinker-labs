@@ -61,7 +61,7 @@ Then add a score for each (1-10), depending on how much you want them done - or 
 Then start doing them. I bet in most cases (almost) all will get done.
 
 ## Tools and techniques
-Depending on you particular structure you might find that handwritten notes and todo lists attract more commitment, more of the items will end up done by the end of the day. Keep the observation and use it. If absolutely needed, take photos of the paper - and attach them to your favorite task manager.
+Depending on your particular structure you might find that handwritten notes and todo lists attract more commitment, more of the items will end up done by the end of the day. Keep the observation and use it. If absolutely needed, take photos of the paper - and attach them to your favorite task manager.
 Throw away the clutter: if the history (of notes collection) is too hard to address, just start with an empty page and put in the list what seems more important now - or soon. Get out of the swamp first with that - then examine the history.
 If particularly good checklist emerge - keep them in a library for other similar occasions. They might be useful for the next related project.
 
