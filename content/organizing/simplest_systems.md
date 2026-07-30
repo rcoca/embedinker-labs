@@ -39,6 +39,7 @@ One easy way is to keep a running list of areas - and mark them with one of 3 la
 - Low Watermark: meaning they are almost in an "about to fail" state
 - High Watermark: meaning they are fully satisfied right now -and for a while
 - Mid-Watermark: meaning they are just about right, not about to fail - but not in exquisite shape either.
+
 I suggest you think about each assigning a time-to-live in the curent state: a counter that would be decremented at each iteration, pushing everything down towards low watermark status.
 
 This technique will be useful even for sophisticated systems - for monitoring the projects states and near-future attention requirements.
@@ -49,20 +50,30 @@ It's only natural to maintain more than one project - to also mitigate the risk 
 
 
 ## Ad-hoc method: TODO List
-This is an easy one: just collect the items that need done - and keep it around, crossing the checkbox once done. It might get an extra note for follow-up and difficulties encountered while processing it - but that's all for the most part. If you keep a work-log, keep adding separate random entries that just pop-up. You'll need to walk them later - but at least they're captured for now.
+This is an easy one: just collect the items that need done - and keep it around, crossing the checkbox once done. It might get an extra note for follow-up and difficulties encountered while processing it - but that's all for the most part. 
+
+If you keep a work-log, keep adding separate random entries that just pop-up. You'll need to walk them later - but at least they're captured for now.
 ## Ad-hoc method: Backtracking tree
-There's an extension to it - a backtracking tree: when exploring a really tough problem, some paths will be dead ends; it pays to keep track of them to keep from repeating mistakes, for reporting - and for overviews that lead to breakthroughs that often look more clear on paper than kept in the head.
+There's an extension to the TODO list - a backtracking tree: when exploring a really tough problem, some paths will be dead ends; it pays to keep track of them to keep from repeating mistakes, for reporting - and for overviews that lead to breakthroughs that often look more clear on paper than kept in the head.
 
 There's another extension worth mentioning: the ad-hoc todo list. Whenever confused, make up a fresh list with things that need done - and start doing them. 
+
 ## Ad-hoc method: Weighted TODO List
 And yet another extension: the weighted todo list. 
+
 Whenever procrastinating - or just swamped - make an itemized list of things that need done.
-Then add a score for each (1-10), depending on how much you want them done - or how hard are needed. Normalize the scores (divide by their sum). Multiply by the time you have at your disposal. It will produce a list of blocks. Check if maybe some cannot be (partially) batched together: walking in the park and making a list for something  - or reading - can work well together.
+
+Then add a score for each (1-10), depending on how much you want them done - or how hard are needed. Normalize the scores (divide by their sum). Multiply by the time you have at your disposal. 
+
+It will produce a list of blocks. Check if maybe some cannot be (partially) batched together: walking in the park and making a list for something  - or reading - can work well together.
+
 Then start doing them. I bet in most cases (almost) all will get done.
 
 ## Tools and techniques
 Depending on your particular structure you might find that handwritten notes and todo lists attract more commitment, more of the items will end up done by the end of the day. Keep the observation and use it. If absolutely needed, take photos of the paper - and attach them to your favorite task manager.
+
 Throw away the clutter: if the history (of notes collection) is too hard to address, just start with an empty page and put in the list what seems more important now - or soon. Get out of the swamp first with that - then examine the history.
+
 If particularly good checklist emerge - keep them in a library for other similar occasions. They might be useful for the next related project.
 
 
