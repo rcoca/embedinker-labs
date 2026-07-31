@@ -1,9 +1,44 @@
+---
+title: "Simple ideas for productivity toolkit"
+date: 2026-07-31T00:00:00+00:00
+draft: false
+categories:
+  - TODO
+  - Notes
+  - Organizing
+  - Systems
+  - Tools
+tags:
+  - task-management
+  - hierarchical-data
+  - tools
+description: A few starting ideas for a productivity toolkit
+series: "Organizing Systems"
+slug: simplest-organizing-systems
+distribution:
+  linkedin:
+    status: pending
+    payload_snippet: A few starting ideas for a productivity toolkit
+    link_posted: ""
+  reddit:
+    status: pending
+    target_subreddits:
+      - golang
+      - productivity
+    link_posted: ""
+  grimm_network:
+    status: pending
+    thread_id: ""
+---
+
 ## On the fungibility of time
 
-Now, unless you have a strict timetable - you still have a choice of when to place things in your schedule. 
+Now, unless you have a strict timetable - you still have a choice of when to place things in your schedule. As in a choice on what todo next.
 This makes this first tool useful: you'd want to fetch things that need done anyway in the future (especially if small/short) - today. Now, if possible (if you have room for them now).
 This clears your future schedule for big blocks - lowering the entropy of future schedules. Less tasks switching, or, who knows, even a few vacation days.
 Even a little bit of collecting together all needed information (links, emails, documents, addresses, maps) for the upcoming big push, ahead of time - will yield a feeling of being in control - and a warm start for the upcoming work block.
+
+So, for the most part, schedule is mostly fungible - at least with respect to small tasks. They can be fetched to near-future and done, emptying the calendar for more important blocks later.
 
 ## On asynchronous work
 
@@ -25,5 +60,19 @@ This is very much how fast network switches process packets: instead of bufferin
 So, a labelling system - and a fast dispatching one are good strategies to prevent clutter.
 
 
+## Rest is a project to attend too
+
+Nobody writes down that we all need rest. But we do. Sometimes long, sometimes just often.
+
+Learning is strongly enhanced by a lot of small naps during the day - for long-term memory storage and connections building.
 
 
+## Undisturbed blocks can host top priorities
+
+If you have a 5am-8am block of time (it can at different hours) - you can definitely host your most important projects there. The ones that pushes your agenda forward - your best moonshot projects, the book you always wanted to read (and try it out), the code you always wated to write.
+
+Having that part first thing in the morning - before everyone wakes up with their questions, requests, chatter - will guarantee that by the time all these come up - you're all set and ready to go. Especially since it (should) involve projets that span weeks, months years - and rely on compounding 1% over years.
+
+This is a place where setting the right priorities - and working them in that particular importance order can bring a decisive win. 
+
+Every day.
