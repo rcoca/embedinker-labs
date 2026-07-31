@@ -1,5 +1,5 @@
 ---
-title: "Simple ideas for productivity toolkit"
+title: "Simple ideas for a productivity toolkit"
 date: 2026-07-31T00:00:00+00:00
 draft: false
 categories:
