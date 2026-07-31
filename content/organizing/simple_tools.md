@@ -45,15 +45,15 @@ So, for the most part, schedule is mostly fungible - at least with respect to sm
 A dishwasher started will ensure clean dishes in the evening. 
 - it does require checking regularly (preventively) for good working condition: be it cleaning, lubricating.
 
-An email asking clarifications earlier during a task work - might ensure you have all the answers you require well ahead of it's deadline. 
-- it does require collecting all questions and composing the message that sounds reasonable
+An email asking clarifications earlier during a project work - might ensure you have all the answers you require well ahead of it's delivery deadline. 
+- it does require collecting all questions and composing the message that sounds sensible
 
 A long-running computation started - will help you having plots to add to your report during writing it later, today. Or tomorrow.
 - that is - given that recent input still works with the current model, the software doesn't need recompilation (or even porting to the newest libraries versions)
 
 While asynchronous work is a smart optimization, it will require preventive maintenance for worry-free runs. Corrective maintenance is when everything breaks down - just when you needed it most to run fine.
 
-There will be a limit on harvesting volume - when collecting a few tasks could feel like a chore in itself - and an even higher threshold that makes sorting out all the details of the harvest barely manageable. 
+There will be a limit on the harvesting volume - when collecting a few tasks could feel like a chore in itself - and an even higher threshold that makes sorting out all the details of the harvest barely manageable. 
 
 ## Queueing towards the output port
 
@@ -75,9 +75,9 @@ Learning is strongly enhanced by a lot of small naps during the day - for long-t
 
 ## Undisturbed blocks can host top priorities
 
-If you have a 5am-8am block of time (it can at different hours) - you can definitely host your most important projects there. The ones that pushes your agenda forward - your best moonshot projects, the book you always wanted to read (and try it out), the code you always wated to write.
+If you have a 5am-8am block of time (it can sit at different hours) - you can definitely host your most important projects there. The ones that push your agenda forward - your best moonshot projects, the book you always wanted to read (and try them out), the code you always wanted to write.
 
-Having that part first thing in the morning - before everyone wakes up with their questions, requests, chatter - will guarantee that by the time all these come up - you're all set and ready to go. Especially since it (should) involve projets that span weeks, months years - and rely on compounding 1% over years.
+Having that part first thing in the morning - before everyone wakes up with their questions, requests, chatter - will guarantee that by the time all these come up - you're all set and ready to go. Especially since it (should) involve projects that span weeks, months years - and rely on compounding 1% over years.
 
 This is a place where setting the right priorities - and working them in that particular importance order can bring a decisive win. 
 
