@@ -45,7 +45,7 @@ So, for the most part, schedule is mostly fungible - at least with respect to sm
 A dishwasher started will ensure clean dishes in the evening. 
 - it does require checking regularly (preventively) for good working condition: be it cleaning, lubricating.
 
-An email asking clarifications earlier during a project work - might ensure you have all the answers you require well ahead of it's delivery deadline. 
+An email asking clarifications earlier during a project work - might ensure you have all the answers you require well ahead of its delivery deadline. 
 - it does require collecting all questions and composing the message that sounds sensible
 
 A long-running computation started - will help you having plots to add to your report during writing it later, today. Or tomorrow.
@@ -61,7 +61,7 @@ When all input gets stored in the entry hall - pretty quickly the house becomes 
 
 If instead, every input gets dispatched quickly to its "work-context" destination, the entry keeps neat and  still usable.
 
-This is very much how fast network switches process packets: instead of buffering all information at the entry port - they will queue it at the exit port in the first step. In switches, same as houses, one port tend to handle a lot of traffic - while all the others tend to stay free of queued info.
+This is very much how fast network switches process packets: instead of buffering all information at the entry port - they will queue it at the exit port in the first step. In switches, same as houses, one port tends to handle a lot of traffic - while all the others tend to stay free of queued info.
 
 So, a labelling system - and a fast dispatching one are good strategies to prevent clutter.
 
@@ -77,7 +77,7 @@ Learning is strongly enhanced by a lot of small naps during the day - for long-t
 
 If you have a 5am-8am block of time (it can sit at different hours) - you can definitely host your most important projects there. The ones that push your agenda forward - your best moonshot projects, the book you always wanted to read (and try them out), the code you always wanted to write.
 
-Having that part first thing in the morning - before everyone wakes up with their questions, requests, chatter - will guarantee that by the time all these come up - you're all set and ready to go. Especially since it (should) involve projects that span weeks, months years - and rely on compounding 1% over years.
+Having that part first thing in the morning - before everyone wakes up with their questions, requests, chatter - will guarantee that by the time all these come up - you're all set and ready to go. Especially since it (should) involve projects that span weeks, months, years - and rely on compounding 1% over years.
 
 This is a place where setting the right priorities - and working them in that particular importance order can bring a decisive win. 
 
@@ -96,9 +96,9 @@ The union of all tasks that comprise a project is decomposable as follows:
 
 The Union of all. Minus the union of all-but-one. Plus the intersection of all-but-two. Minus the intersection of all-but-three. And so on, until the intersection of all.
 
-This suggests a possible strategy: start examining intersections. Start work (if is not too hard a problem to solve) with the intersection of all: the exact work that needs done in any scenario, whatever the path taken to arrive at succesfully delivering the project.
+This suggests a possible strategy: start examining intersections. Start work (if it is not too hard a problem to solve) with the intersection of all: the exact work that needs done in any scenario, whatever the path taken to arrive at succesfully delivering the project.
 
-Then examine All-But-One intersecion. Whatever got left out - and is particular to almost all - but didn't get done in the first pass.
+Then examine All-But-One intersection. Whatever got left out - and is particular to almost all - but didn't get done in the first pass.
 
 
 However, if the project is too hard - one can sort the work the other way around: start with common parts in 2-3 tasks. Do all their combinations. Chances are by the time you finish them - you are well on your way to solving the 4-intersections covered partially.
