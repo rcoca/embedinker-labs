@@ -1,10 +1,8 @@
 ---
-title: "Simple ideas for productivity toolkit"
+title: Simple ideas for a productivity toolkit
 date: 2026-07-31T00:00:00+00:00
 draft: false
 categories:
-  - TODO
-  - Notes
   - Organizing
   - Systems
   - Tools
@@ -13,7 +11,7 @@ tags:
   - hierarchical-data
   - tools
 description: A few starting ideas for a productivity toolkit
-series: "Organizing Systems"
+series: Organizing Systems
 slug: simplest-organizing-systems
 distribution:
   linkedin:
@@ -42,10 +40,10 @@ So, for the most part, schedule is mostly fungible - at least with respect to sm
 
 ## On asynchronous work
 
-A dishwasher started will ensure clean dishes in the evening. 
+A dishwasher started early will ensure clean dishes in the evening. 
 - it does require checking regularly (preventively) for good working condition: be it cleaning, lubricating.
-An email asking clarifications earlier during a task work - might ensure you have all the answers you require well ahead of it's deadline. 
-- it does require collecting all questions and composing the message that sounds reasonable
+An email asking clarifications earlier during a work project - might ensure you have all the answers you require well ahead of it's delivery deadline. 
+- it does require collecting all questions and composing the message(s) that sounds sensible
 A long-running computation started - will help you having plots to add to your report during writing it later, today. Or tomorrow.
 - that is - given that recent input still works with the current model, the software doesn't need recompilation (or even porting to the newest libraries versions)
 
