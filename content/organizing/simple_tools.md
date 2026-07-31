@@ -38,7 +38,7 @@ This makes this first tool useful: you'd want to fetch things that need done any
 This clears your future schedule for big blocks - lowering the entropy of future schedules. Less tasks switching, or, who knows, even a few vacation days.
 Even a little bit of collecting together all needed information (links, emails, documents, addresses, maps) for the upcoming big push, ahead of time - will yield a feeling of being in control - and a warm start for the upcoming work block.
 
-So, for the most part, schedule is mostly fungible - at least with respect to small tasks. They can be fetched to near-future and done, emptying the calendar for more important blocks later.
+So, for the most part, schedule is mostly fungible - at least with respect to small tasks. They can be fetched to near-future and done, emptying the long-term calendar for more important blocks.
 
 ## On asynchronous work
 
