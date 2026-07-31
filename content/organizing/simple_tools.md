@@ -1,8 +1,10 @@
 ---
-title: Simple ideas for a productivity toolkit
+title: "Simple ideas for productivity toolkit"
 date: 2026-07-31T00:00:00+00:00
 draft: false
 categories:
+  - TODO
+  - Notes
   - Organizing
   - Systems
   - Tools
@@ -11,7 +13,7 @@ tags:
   - hierarchical-data
   - tools
 description: A few starting ideas for a productivity toolkit
-series: Organizing Systems
+series: "Organizing Systems"
 slug: simplest-organizing-systems
 distribution:
   linkedin:
@@ -40,10 +42,12 @@ So, for the most part, schedule is mostly fungible - at least with respect to sm
 
 ## On asynchronous work
 
-A dishwasher started early will ensure clean dishes in the evening. 
+A dishwasher started will ensure clean dishes in the evening. 
 - it does require checking regularly (preventively) for good working condition: be it cleaning, lubricating.
-An email asking clarifications earlier during a work project - might ensure you have all the answers you require well ahead of it's delivery deadline. 
-- it does require collecting all questions and composing the message(s) that sounds sensible
+
+An email asking clarifications earlier during a task work - might ensure you have all the answers you require well ahead of it's deadline. 
+- it does require collecting all questions and composing the message that sounds reasonable
+
 A long-running computation started - will help you having plots to add to your report during writing it later, today. Or tomorrow.
 - that is - given that recent input still works with the current model, the software doesn't need recompilation (or even porting to the newest libraries versions)
 
@@ -53,8 +57,12 @@ There will be a limit on harvesting volume - when collecting a few tasks could f
 
 ## Queueing towards the output port
 
-When all input gets stored in the entry hall - pretty quickly the house becomes unusable. If instead, every input gets dispatched quickly to its "work-context" destination, the entry keeps neat and  still usable.
+When all input gets stored in the entry hall - pretty quickly the house becomes unusable. 
+
+If instead, every input gets dispatched quickly to its "work-context" destination, the entry keeps neat and  still usable.
+
 This is very much how fast network switches process packets: instead of buffering all information at the entry port - they will queue it at the exit port in the first step. In switches, same as houses, one port tend to handle a lot of traffic - while all the others tend to stay free of queued info.
+
 So, a labelling system - and a fast dispatching one are good strategies to prevent clutter.
 
 
@@ -74,3 +82,26 @@ Having that part first thing in the morning - before everyone wakes up with thei
 This is a place where setting the right priorities - and working them in that particular importance order can bring a decisive win. 
 
 Every day.
+
+## Batching
+
+During tasklist walkthrough you might notice some are quite similar - and most importantly - can be run in the same context. At the same desk, during a single drive around, using a small set of devices. It is a good idea to group them together.
+
+Same caveat as for asynchronous work applies: you might get overwhelmed by the sheer amount of things to collect/batch.
+
+
+## Inclusion-Exclusion Principle
+
+The union of all tasks that comprise a project is decomposable as follows:
+
+The Union of all. Minus the union of all-but-one. Plus the intersection of all-but-two. Minus the intersection of all-but-three. And so on, until the intersection of all.
+
+This suggests a possible strategy: start examining intersections. Start work (if is not too hard a problem to solve) with the intersection of all: the exact work that needs done in any scenario, whatever the path taken to arrive at succesfully delivering the project.
+
+Then examine All-But-One intersecion. Whatever got left out - and is particular to almost all - but didn;t get done in the first pass.
+
+
+However, if the project is too hard - one can sort the work the other way around: start with common parts in 2-3 tasks. Do all their combinations. Chances are by the time you finish them - you are well on your way to solving the 4-intersections covered partially.
+
+
+
