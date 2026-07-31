@@ -98,7 +98,7 @@ The Union of all. Minus the union of all-but-one. Plus the intersection of all-b
 
 This suggests a possible strategy: start examining intersections. Start work (if is not too hard a problem to solve) with the intersection of all: the exact work that needs done in any scenario, whatever the path taken to arrive at succesfully delivering the project.
 
-Then examine All-But-One intersecion. Whatever got left out - and is particular to almost all - but didn;t get done in the first pass.
+Then examine All-But-One intersecion. Whatever got left out - and is particular to almost all - but didn't get done in the first pass.
 
 
 However, if the project is too hard - one can sort the work the other way around: start with common parts in 2-3 tasks. Do all their combinations. Chances are by the time you finish them - you are well on your way to solving the 4-intersections covered partially.
