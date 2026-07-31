@@ -14,7 +14,7 @@ tags:
   - tools
 description: A few starting ideas for a productivity toolkit
 series: "Organizing Systems"
-slug: simplest-organizing-systems
+slug: simple-toolkit
 distribution:
   linkedin:
     status: pending
