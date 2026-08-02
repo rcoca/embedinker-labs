@@ -119,7 +119,7 @@ It turns out that the garch(1,1) model is so good - that it will completely hide
 
 ![Volatility plot](sigma7.png)
 
-It also turn out volatility plot is interesting - but almost completely unaffected by wrong input parameters.
+It also turns out volatility plot is interesting - but almost completely unaffected by wrong input parameters.
 
 
 #### Posterior distributions
@@ -128,7 +128,7 @@ It also turn out volatility plot is interesting - but almost completely unaffect
 ![alpha parameter posterior distribution](post6.png)
 ![beta parameter posterior distribution](post7.png)
 
-This is a deeper dig into the internal workings of the engine. It partially informs on the results and traces back to the actual simulation run and Bayesian model.
+This is a deeper dig into the internal workings of the engine. It partially informs on the results and traces back to the actual simulation run and the Bayesian model.
 
 #### Phase Plots
 
@@ -138,12 +138,12 @@ This is a deeper dig into the internal workings of the engine. It partially info
 
 An explanation is maybe useful here: at the very start of the run, a Max-Likelyhood-Estimate is performed on the parameters - and mass components are computed from the curvature. Those mass components are carried over to enter the definition of the Hamiltonian - and thus, the phase plots have "circles" instead of very flat elipses.
 
-For simplicity of the explanation, the fat tail of the posterior (and related parameter plots) were completely left out from the explanation and the illustrations.
+For simplicity of the explanation, the fat tail of the posterior (and related parameter plots) were completely left out from the test and from the illustrations.
 
 ### 6 Conclusion
 Ultimately, moving from MLE to a Bayesian HMC approach allows us to quantify the uncertainty of our volatility parameters rather than just picking a single point.
 
-While the implementation is more involved than a simple MH sampler, the resulting stability and convergence speed make it the gold standard for these recursive models. In a high-performance C++ environment, this approach allows for the kind of rapid inference and parameter optimization that is usually prohibitive with traditional Bayesian methods.
+While the implementation of a No-UTurn-Sampler is more involved than a simple MH sampler, the resulting stability and convergence speed make it the gold standard for these recursive models. In a high-performance C++ environment, this approach allows for the kind of rapid inference and parameter optimization that is usually prohibitive with traditional Bayesian methods.
 
 ## Comments
 Questions or suggestions? [Send me an email](mailto:razvan@embedinker.com) 
