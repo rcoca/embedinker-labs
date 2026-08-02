@@ -18,9 +18,9 @@ series: High Performance Systems
 slug: monte-carlo-simulations-volatility-model
 distribution:
   linkedin:
-    status: pending
+    status: posted
     payload_snippet: Garch volatility model parameters estimation using Hamiltonian Monte Carlo
-    link_posted: ""
+    link_posted: "https://www.linkedin.com/posts/rcoca_quantitativefinance-hpc-bayesian-share-7489587523925540864-BMoC"
   reddit:
     status: pending
     target_subreddits:
