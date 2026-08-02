@@ -76,6 +76,12 @@ Throw away the clutter: if the history (of notes collection) is too hard to addr
 
 If particularly good checklist emerge - keep them in a library for other similar occasions. They might be useful for the next related project.
 
+## Comments
+Questions or suggestions? 
+
+- [Send me an email](mailto:razvan@embedinker.com) 
+
+- or open an [issue on the GitHub repo](https://github.com/rcoca/embedinker-labs/issues/new?permalink=https%3A%2F%2Fgithub.com%2Frcoca%2Fembedinker-labs%2Fblob%2F769764482521f53407eed1a5b34cf3a84d4ff0af%2Fcontent%2Forganizing%2Fsimplest_systems.md%3Fplain%3D1%23L79)
 
 
 

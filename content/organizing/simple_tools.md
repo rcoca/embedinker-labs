@@ -103,5 +103,10 @@ Then examine All-But-One intersection. Whatever got left out - and is particular
 
 However, if the project is too hard - one can sort the work the other way around: start with common parts in 2-3 tasks. Do all their combinations. Chances are by the time you finish them - you are well on your way to solving the 4-intersections covered partially.
 
+## Comments
+Questions or suggestions? 
 
+- [Send me an email](mailto:razvan@embedinker.com) 
+
+- or open an [issue on the GitHub repo](https://github.com/rcoca/embedinker-labs/issues/new?permalink=https%3A%2F%2Fgithub.com%2Frcoca%2Fembedinker-labs%2Fblob%2F769764482521f53407eed1a5b34cf3a84d4ff0af%2Fcontent%2Forganizing%2Fsimple_tools.md%3Fplain%3D1%23L104)
 
