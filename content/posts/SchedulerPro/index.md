@@ -55,6 +55,14 @@ You can find the app in the [Google Workspace Marketplace](https://workspace.goo
 
 If you are a builder, engineer, or busy creator looking to protect your growth time and want to be one of our first users, please [use the support form](https://schedulerpro.embedinker.com/support-report-issue) [that captures all info needed for enrollment] or email me at **razvan@embedinker.com** to request an invite. I'll add you as a user and waive the first month's payment.
 
+## Comments
+Questions or suggestions? 
+
+- [Send me an email](mailto:razvan@embedinker.com) 
+
+- or open an [issue on the GitHub repo](https://github.com/rcoca/embedinker-labs/issues/new?permalink=https%3A%2F%2Fgithub.com%2Frcoca%2Fembedinker-labs%2Fblob%2F4a83d34ee46541f0c3518034e13d4ec10a93a3ec%2Fcontent%2Fposts%2FSchedulerPro%2Findex.md%3Fplain%3D1%23L54)
+
+
 ---
 
 
