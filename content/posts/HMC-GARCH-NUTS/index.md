@@ -120,5 +120,5 @@ Although not checked thoroughly - the volatility bands appear to be slightly tig
 ![XLK Price volatility time variation](xlk_sigma2_price_nuts_10.png)
 
 
-## 13. Comments
+### 13. Comments
 Questions or suggestions? [Send me an email](mailto:razvan@embedinker.com) 

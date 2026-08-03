@@ -145,5 +145,5 @@ Ultimately, moving from MLE to a Bayesian HMC approach allows us to quantify the
 
 While the implementation of a No-UTurn-Sampler is more involved than a simple MH sampler, the resulting stability and convergence speed make it the gold standard for these recursive models. In a high-performance C++ environment, this approach allows for the kind of rapid inference and parameter optimization that is usually prohibitive with traditional Bayesian methods.
 
-## 8. Comments
+### 8. Comments
 Questions or suggestions? [Send me an email](mailto:razvan@embedinker.com) 
