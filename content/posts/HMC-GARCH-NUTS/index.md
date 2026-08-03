@@ -1,6 +1,6 @@
 ---
 title: "Beyond MLE: Implementing Bayesian Volatility Models in High-Performance C++. The No U-Turn Sampler"
-date: 2026-08-04T10:00:00+00:00
+date: 2026-08-03T10:00:00+00:00
 draft: false
 categories:
   - Engineering
