@@ -79,7 +79,7 @@ while (sampling) {
     current_theta = sample_from_tree(node);
 }
 ```
-#### 11. Summary: Comparison for Implementation
+### 11. Summary: Comparison for Implementation
 
 | Feature             | Standard HMC             | NUTS                              |
 | :------------------ | :----------------------- | :-------------------------------- |
