@@ -94,7 +94,7 @@ In practice, all four parameters are sampled in **unconstrained log-space** (i.e
 
 ---
 
-### 4 Baseline: Metropolis-Hastings
+### 5. Baseline: Metropolis-Hastings
 It's instructive to walk through a standard Metropolis-Hastings (MH) sampler. The logic maps directly onto the components above:
 
 | Component      | Mathematical Term           |
@@ -105,7 +105,7 @@ It's instructive to walk through a standard Metropolis-Hastings (MH) sampler. Th
 | **Dynamics**   | Leapfrog                    |
 | **Acceptance** | Metropolis-Hastings         |
 
-### 5 Results
+### 6. Results
 
 Let's take a look at the results. Starting with final applications.
 
@@ -140,10 +140,10 @@ An explanation is maybe useful here: at the very start of the run, a Max-Likelyh
 
 For simplicity of the explanation, the fat tail of the posterior (and related parameter plots) were completely left out from the test and from the illustrations.
 
-### 6 Conclusion
+### 7. Conclusion
 Ultimately, moving from MLE to a Bayesian HMC approach allows us to quantify the uncertainty of our volatility parameters rather than just picking a single point.
 
 While the implementation of a No-UTurn-Sampler is more involved than a simple MH sampler, the resulting stability and convergence speed make it the gold standard for these recursive models. In a high-performance C++ environment, this approach allows for the kind of rapid inference and parameter optimization that is usually prohibitive with traditional Bayesian methods.
 
-## Comments
+## 8. Comments
 Questions or suggestions? [Send me an email](mailto:razvan@embedinker.com) 
