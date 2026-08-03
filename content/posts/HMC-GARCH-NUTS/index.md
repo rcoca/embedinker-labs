@@ -35,7 +35,7 @@ distribution:
 
 ### 9. From HMC to NUTS: Automating the Hamiltonian
 
-[In the previous post](https://lab.embedinker.com/posts/monte-carlo-simulations-volatility-model/) we visited the (simplified) version of a Bayesian estimator of the $GARCH(1,1)$ volatility model  parameters distribution using the Hamiltonian Monte Carlo technique. We suggested then, that implementing the No U-Turn Sampler (NUTS) would provide an added bonus of better convergence and faster run times. This article serves as the second part of that series - and will number the sections accordingly.
+[In the previous post](https://lab.embedinker.com/posts/monte-carlo-simulations-volatility-model/) we visited the (simplified) version of a Bayesian estimator of the $GARCH(1,1)$ volatility model parameters distributions using the Hamiltonian Monte Carlo technique. We suggested then, that implementing the No U-Turn Sampler (NUTS) would provide an added bonus of better convergence and faster run times. This article serves as the second part of that series - and will number the sections accordingly.
 
 
 ### 10. The "U-Turn" Concept
