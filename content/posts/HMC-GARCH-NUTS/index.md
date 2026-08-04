@@ -18,9 +18,9 @@ series: High Performance Systems
 slug: monte-carlo-simulations-volatility-model-nuts
 distribution:
   linkedin:
-    status: pending
+    status: posted
     payload_snippet: Garch volatility model parameters estimation using Hamiltonian Monte Carlo with No U-Turn Sampler
-    link_posted: ""
+    link_posted: "https://www.linkedin.com/posts/rcoca_quantitativefinance-hpc-bayesian-activity-7490403065037172736-mks5"
   reddit:
     status: pending
     target_subreddits:
