@@ -3,6 +3,11 @@ title: SchedulerPro - a simple calendar planner - with spreadsheet input
 date: 2026-06-26
 status: published
 canonical_url: https://lab.embedinker.com/posts/priority-scheduler
+tags:
+  - SchedulerPro
+  - GoogleSheets
+  - GoogleCalendar
+  - AutomaticScheduling
 distribution:
   linkedin:
     status: pending

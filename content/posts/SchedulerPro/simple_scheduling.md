@@ -3,6 +3,11 @@ title: SchedulerPro -  simplest use case, illustrated.
 date: 2026-08-05
 status: published
 canonical_url: 
+tags:
+  - SchedulerPro
+  - GoogleSheets
+  - GoogleCalendar
+  - AutomaticScheduling
 distribution:
   linkedin:
     status: pending
