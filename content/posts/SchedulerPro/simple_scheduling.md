@@ -28,13 +28,14 @@ distribution:
 {{< youtube id="ZPQC51fcpQk" autoplay="false" >}}
 SchedulerPro: simplest use case, illustrated.
 
-## 1. Filling the project list
+**1. Filling the project list**
 
 Run the initialization for SchedulerPro - it creates the template tabs for the spreadsheet. 
 
 Add Projects, tasks, timelines, estimates. Add priorities if they matter.
 
-## 2. Run the scheduling engine
+**2. Run the scheduling engine**
+
 Make sure you have the target calendar set in the Settings tab.
 
 Open the menu, request SCHEDULE CALENDAR EVENTS.
@@ -43,7 +44,7 @@ It will run for a while - and display a list of existing calendar entries - and 
 
 Examine it, alter - or delete lines.
 
-## 3. Sync to Google Calendar
+**3. Sync to Google Calendar**
 
 Go to the SchedulerPro menu entry again: COMMIT TO CALENDAR
 
