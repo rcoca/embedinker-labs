@@ -44,7 +44,17 @@ There exists a perfect **bijection** between the order in which a recursive DFS 
 
 If we treat our state as a vector where each cell has a base $B_i$, then every single possible configuration maps uniquely to an integer in the range $[0, (\prod B_i) - 1]$. The recursive descent we see in textbooks is simply one way to implement this enumeration. But if we recognize that it is "just counting," we can replace the volatile call stack with a stable, iterative odometer.
 
+
+**Example**
+![Example](/images/bt_cout_fig.jpeg)
+Imagine we are solving a puzzle with 3 slots, each with values 
+0…2.
+Constraint: Slot 1 + Slot 2 cannot exceed 2.
+
+
+
 **The Odometer: Implementing the Enumeration**
+
 
 By treating the state space as a mixed-radix number, we can iterate through configurations using a simple increment logic:
 1. Increment the most granular digit (the last index).
