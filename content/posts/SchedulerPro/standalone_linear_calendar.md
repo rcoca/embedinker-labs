@@ -23,22 +23,27 @@ distribution:
     thread_id: ""
 ---
 
-There's a first tinkering draft of [[linear_calendar]] - that comes back now as a spreadsheet plugin.
+There's a first tinkering draft of [linear calendar](https://lab.embedinker.com/posts/schedulerpro/linear_calendar/) - that comes back now as a spreadsheet plugin.
 ## Video Preview
 {{< youtube id="hd5QotajsGg" autoplay="false" >}}
-## In the Project List Queue - named Project Tasks
+
+## Project List Queue as Linear Calendar chart
+
+Project List Queue has a tab - named Project Tasks.
 
 * Collect the list of project from memory or notes
 * Set their favorable times. Example: Is best to go to the beach in August - not in November.
 * Make estimates on how long they might take (not absolutely required here)
 * Prioritize
-* Ask the too to chart the Linear calendar. Examine busy periods - and adjust
+* Ask the Linear Calendar App too to chart the Linear calendar. Examine busy periods - and adjust
 
 ![Initial Project List charted](/images/LinCalScreenshot_1.jpeg)
 
 
 
 ## After running the Round Robin Scheduler
+
+Users of SchedulerPro will be able to also chart their computed schedule results - and visualize that in a new **Linear Calendar** tab.
 
 * Request it be laid out as a linear calendar. It will happen in a new tab
 * Check visually if the schedule has time to breathe. 
