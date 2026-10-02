@@ -75,7 +75,7 @@ Learning is strongly enhanced by a lot of small naps during the day - for long-t
 
 ## Undisturbed blocks can host top priorities
 
-If you have a 5am-8am block of time (it can sit at different hours) - you can definitely host your most important projects there. The ones that push your agenda forward - your best moonshot projects, the book you always wanted to read (and try them out), the code you always wanted to write.
+If you have a 5am-8am block of time (it can sit at different hours) - you can definitely host your most important projects there. The ones that push your agenda forward - your best moonshot projects, the book you always wanted to read (and try it's ideas out), the code you always wanted to write.
 
 Having that part first thing in the morning - before everyone wakes up with their questions, requests, chatter - will guarantee that by the time all these come up - you're all set and ready to go. Especially since it (should) involve projects that span weeks, months, years - and rely on compounding 1% over years.
 
