@@ -4,6 +4,9 @@ title = 'Embedinker Labs'
 theme = 'PaperMod'
 mainSections = ["posts"]
 
+[params]
+  ShowRssButtonInSectionTermList = true
+
 [privacy]
   [privacy.vimeo]
     disabled = false
@@ -32,6 +35,11 @@ mainSections = ["posts"]
     weight = 30
 
 [[menu.main]]
-    name = "Systems & Organizing"
+    name = 'Systems & Organizing'
     url = "/organizing/"
     weight = 20
+
+[[menu.main]]
+    name = 'RSS'
+    url = "/index.xml"
+    weight = 50
