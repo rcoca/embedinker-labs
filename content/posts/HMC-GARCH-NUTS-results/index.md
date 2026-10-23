@@ -1,6 +1,6 @@
 ---
 title: "NUTS on a Multi-Modal GARCH Posterior: Basins, Curvature Caps, and What the Chains Found"
-date: 2026-10-23T10:00:00+00:00
+date: 2026-10-23T08:40:00+00:00
 draft: false
 categories:
   - Engineering

@@ -1,6 +1,6 @@
 ---
 title: "Zero-Bloat Microservices: The Reverse-Tunnel API Gateway & Self-Registering Worker Pattern"
-date: 2026-10-23T10:00:00+00:00
+date: 2026-10-23T09:00:00+00:00
 draft: false
 categories:
   - Engineering
