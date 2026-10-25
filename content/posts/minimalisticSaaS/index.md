@@ -24,8 +24,8 @@ distribution:
   reddit:
     status: pending
     target_subreddits:
-      - 
-      - 
+      - systems
+      - softwarearchitecture
     link_posted: ""
   grimm_network:
     status: pending

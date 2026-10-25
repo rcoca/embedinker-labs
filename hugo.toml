@@ -7,6 +7,29 @@ mainSections = ["posts"]
 [params]
   ShowRssButtonInSectionTermList = true
 
+  # Comments box (giscus / GitHub Discussions), rendered at the bottom of
+  # single pages by layouts/partials/comments.html.
+  #
+  # To activate: fill in `category` / `categoryId` below
+  #   1. Add a discussion category in the repo, e.g. "Comments" — set its
+  #      type to Announcements so only the giscus app + maintainers can
+  #      create new discussions (visitors still comment inside them).
+  #   2. Open https://giscus.app, set the repository to rcoca/embedinker-labs
+  #      and pick that category — the generated <script> shows both values.
+  [params.comments]
+  provider = "giscus"
+  repo = "rcoca/embedinker-labs"
+  repoId = "R_kgDOTGl32Q"
+  category = ""       # TODO: e.g. "Comments"
+  categoryId = ""     # TODO: from the giscus.app widget
+  mapping = "pathname"
+  strict = false
+  reactions = true
+  emitMetadata = false
+  inputPosition = "bottom"
+  theme = "preferred_color_scheme"
+  lang = "en"
+
 [privacy]
   [privacy.vimeo]
     disabled = false

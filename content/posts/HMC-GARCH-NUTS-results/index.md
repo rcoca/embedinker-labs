@@ -29,8 +29,8 @@ distribution:
   reddit:
     status: pending
     target_subreddits:
-      - 
-      - 
+      - quantfinance
+      - bayesian
     link_posted: ""
   grimm_network:
     status: pending
