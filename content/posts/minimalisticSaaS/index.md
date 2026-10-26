@@ -101,4 +101,4 @@ I'm not going to attach a benchmark to that number—this is a maintenance-surfa
 
 ## Contact
 
-How do you keep a small internal platform from eating its own maintenance? Let's [discuss](mailto:razvan@embedinker.com).
+How do you keep a small internal platform from eating its own maintenance?

@@ -121,4 +121,4 @@ Although not checked thoroughly - the volatility bands appear to be slightly tig
 
 
 ### 13. Comments
-Questions or suggestions? [Send me an email](mailto:razvan@embedinker.com) 
+Questions or suggestions? 

@@ -89,4 +89,4 @@ Fits on the individual names of the seven sectors, over each name's most recent 
 
 ## Contact
 
-How do you handle multi-modality in your custom MCMC pipelines? Let's [discuss](mailto:razvan@embedinker.com).
+How do you handle multi-modality in your custom MCMC pipelines? 
